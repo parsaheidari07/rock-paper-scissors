@@ -21,4 +21,3 @@ Players can choose their move and compete against the computer. The result (win,
 ```bash
 git clone https://github.com/parsaheidari07/rock-paper-scissors
 cd rock-paper-scissors
->>>>>>>
