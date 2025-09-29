@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 # rock-paper-scissors
-=======
 # ✊ Rock ✋ Paper ✌️ Game
 
 A classic Rock–Paper–Scissors game with a web interface, built using **Python** and **Streamlit**.  
