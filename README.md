@@ -20,6 +20,6 @@ Players can choose their move and compete against the computer. The result (win,
 1. **Clone the repository** (or download the files):
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/parsaheidari07/rock-paper-scissors
 cd rock-paper-scissors
->>>>>>> f530e08 (Initial commit)
+>>>>>>>
